@@ -1,0 +1,13 @@
+C:\Projects\School\Project1\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Projects\School\Project1\Project1\bin\Debug\Project1.exe.config
+C:\Projects\School\Project1\Project1\bin\Debug\Project1.exe
+C:\Projects\School\Project1\Project1\bin\Debug\Project1.pdb
+C:\Projects\School\Project1\Project1\obj\Debug\Project1.exe
+C:\Projects\School\Project1\Project1\obj\Debug\Project1.pdb
+C:\Projects\School\Project1\Project1\obj\Debug\Project1.csprojAssemblyReference.cache
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\PG HW\Project 1\Project1\Project1\bin\Debug\Project1.exe.config
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\PG HW\Project 1\Project1\Project1\bin\Debug\Project1.exe
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\PG HW\Project 1\Project1\Project1\bin\Debug\Project1.pdb
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\PG HW\Project 1\Project1\Project1\obj\Debug\Project1.csprojAssemblyReference.cache
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\PG HW\Project 1\Project1\Project1\obj\Debug\Project1.exe
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\PG HW\Project 1\Project1\Project1\obj\Debug\Project1.pdb

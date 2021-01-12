@@ -1,0 +1,9 @@
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\PG HW\Project 2\Project2-P1\Project2-P1\bin\Debug\Project2-P1.exe.config
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\PG HW\Project 2\Project2-P1\Project2-P1\bin\Debug\Project2-P1.exe
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\PG HW\Project 2\Project2-P1\Project2-P1\bin\Debug\Project2-P1.pdb
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\PG HW\Project 2\Project2-P1\Project2-P1\obj\Debug\Project2-P1.csprojAssemblyReference.cache
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\PG HW\Project 2\Project2-P1\Project2-P1\obj\Debug\Project2_P1.MainForm.resources
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\PG HW\Project 2\Project2-P1\Project2-P1\obj\Debug\Project2_P1.Properties.Resources.resources
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\PG HW\Project 2\Project2-P1\Project2-P1\obj\Debug\Project2-P1.csproj.GenerateResource.cache
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\PG HW\Project 2\Project2-P1\Project2-P1\obj\Debug\Project2-P1.exe
+C:\Users\stone\OneDrive\Desktop\UMD semester 2\CIS566 Design Pattern\PG HW\Project 2\Project2-P1\Project2-P1\obj\Debug\Project2-P1.pdb
